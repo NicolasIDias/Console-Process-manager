@@ -1,0 +1,15 @@
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.csproj.AssemblyReference.cache
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.AssemblyInfoInputs.cache
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.AssemblyInfo.cs
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.csproj.CoreCompileInputs.cache
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\bin\Debug\net6.0\WorkingWIthProcess.exe
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\bin\Debug\net6.0\WorkingWIthProcess.deps.json
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\bin\Debug\net6.0\WorkingWIthProcess.runtimeconfig.json
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\bin\Debug\net6.0\WorkingWIthProcess.dll
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\bin\Debug\net6.0\WorkingWIthProcess.pdb
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.dll
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\refint\WorkingWIthProcess.dll
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.pdb
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\WorkingWIthProcess.genruntimeconfig.cache
+D:\csharp fds\WorkingWIthProcess\WorkingWIthProcess\obj\Debug\net6.0\ref\WorkingWIthProcess.dll
